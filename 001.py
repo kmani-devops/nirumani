@@ -1,5 +1,5 @@
 a = int (input("A = ")):::::
-
+a = int (input("A = ")abc)
 if (a%2==0):
     print ("Even No.")
 else:
