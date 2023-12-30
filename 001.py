@@ -1,4 +1,4 @@
-a = int (input("A = "))::
+a = int (input("A = ")):::::
 
 if (a%2==0):
     print ("Even No.")
